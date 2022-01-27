@@ -1,4 +1,4 @@
-This directory contains a set of python scruipts to help aid computaitonal analysis on metabolomic data. This software
+This directory contains a set of python scripts to help aid computational analysis on metabolomic data. This software
 has 4 main features...
 
 1. Individual Association Analysis of metabolomic data
@@ -67,8 +67,6 @@ Miguel, which preforms a inverse variance meta-analysis.
 `-s1` - Individual association analysis summary stats from the first study.
  
 `-s2` - Individual association analysis summary stats from the second study.  
-
-`-p` - p value threshold for metabolite inclusion, type 'all' to analyze all metabolites
 
 `-o` - Output Prefix, single file gets outputted names {output_prefix}_meta.txt
 
